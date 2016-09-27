@@ -1,3 +1,5 @@
+[Видео решение](https://www.youtube.com/watch?v=d21_HSVdpDA)
+
 ### Problem definition
 Create a tiny RESTful web service with the following business requirements:
 
